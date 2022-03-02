@@ -6,16 +6,17 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:rgb(255, 255, 255);
-    background: #ffff url(imagens/fundo_geral.jpg);
+    background: #ffff url(imagens/Fundo_geral_ok.png);
     background-size: 100% ;
 }
 #caixa_principal{
     width: 1200px;
     margin:0 auto;
     margin-top: 20px;
-    border: seagreen solid;
     border-radius: 15px;
-    background:rgb(53, 14, 14)
+    background: #23211f;
+    box-shadow: 10px 0 15px -6px rgba(0, 0, 0, 0.8), -12px 0 8px -6px rgba(0, 0, 0, 0.8);
+    -webkit-box-shadow: 10px 0 15px -6px rgba(0, 0, 0, 0.8), -12px 0 8px -6px rgba(0, 0, 0, 0.8);
     
 }
 
