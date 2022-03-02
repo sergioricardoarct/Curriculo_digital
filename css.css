@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0%;
+
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(255, 255, 255);
+    background: #ffff url(imagens/fundo_geral.jpg);
+    background-size: 100% ;
+}
+#caixa_principal{
+    width: 1200px;
+    margin:0 auto;
+    margin-top: 20px;
+    border: seagreen solid;
+    border-radius: 15px;
+    background:rgb(53, 14, 14)
+    
+}
+
