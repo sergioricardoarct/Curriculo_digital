@@ -72,11 +72,9 @@ h1{
 }
 #lado{
     float:right;
-    margin: 0px;
-    align-content: center;
-    margin-top: 30px;
+    margin-top: -180px;
     width: 300px;
     border:#ffff solid;
-   
+    
 }
 
