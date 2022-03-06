@@ -48,3 +48,35 @@ nav{
 
 /** Descrição**/
 
+.sobre{
+    width: 720px;
+    margin-top: 30px;
+    margin-left: 390px;
+}
+h1{
+    font-size: 3em;
+}
+.Descricao a{
+    font-size: 1,9em;
+}
+.Descricao p {
+    font-size: 1,5em;
+    color:rgb(225, 207, 119);
+    border:#ffff solid;
+}
+.div_geral{
+
+margin-top: 30px;
+    width: 300px;
+    border:#ffff solid;
+}
+
+article{
+    margin-top: 30px;
+    width: 300px;
+    border:#ffff solid;
+}
+.principal{
+    float:right;
+    
+}
