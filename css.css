@@ -37,8 +37,12 @@ nav{
     padding: 10px;
 	list-style-type: none;
 }
+.ul a:hover{
+   filter: brightness(300%)
+
+}
 .li{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 /** FOTO**/
 
