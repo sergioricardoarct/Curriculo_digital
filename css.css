@@ -49,6 +49,7 @@ nav{
 .foto{
     float: left;
     box-shadow: 10px 0 15px -6px rgba(0, 0, 0, 0.8), -12px 0 8px -6px rgba(0, 0, 0, 0.8);
+    
 }
 
 /** Descrição**/
@@ -80,34 +81,27 @@ h1{
     margin-right:30px;
     text-align: justify;
 }
+.lado_c{
+    
+    width: 355px;
+    margin-top: 70px;
+    margin-right:30px;
+    text-align: justify;
+}
 .lado_b{
 
-    float:none;
-    width: 770px;
-    margin-top: 30px;
-    
+    float:right;
+    width: 355px;
+    margin-top: -310px;
 }
 
 #chama{
     font-size:2em;
     color:rgb(225, 207, 119);
     margin-bottom: 10px;
-
+   
 }
-
-
-/**.div_geral{
-
-    margin-top: 30px;
-    width: 300px;
-    border:#ffff solid;
+.lista_a{
+    list-style-type: none;
+    line-height: 30px;
 }
-#lado{
-    float:left;
-    margin-top: -205px;
-    margin-left: 350px;
-    width: 300px;
-    border:#ffff solid;
-    position: fixed;
-}
-
