@@ -99,9 +99,11 @@ h1{
     font-size:2em;
     color:rgb(225, 207, 119);
     margin-bottom: 10px;
+    margin-top: 5px;
    
 }
 .lista_a{
     list-style-type: none;
     line-height: 30px;
+    
 }
